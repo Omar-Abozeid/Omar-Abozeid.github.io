@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Modern Developer CV
+  </title>
+  <link href="style.css" rel="stylesheet"/>
+  <script src="three.r134.min.js">
+  </script>
+  <script src="vanta.fog.min.js">
+  </script>
+ </head>
+ <body class="cv-body">
+  <div class="cv-container">
+   <div class="header">
+    <div class="header-content">
+     <h1 class="name" content="true">
+      Omar Mohamed Abozeid
+     </h1>
+     <p class="title" content="true">
+      Student at Cairo University - Communication Engineering
+     </p>
+     <div class="contact-info">
+      <div class="contact-item">
+       <span>
+        📍
+       </span>
+       <span class="" content="true">
+        123 Main St, City, State
+       </span>
+      </div>
+      <div class="contact-item">
+       <span>
+        📧
+       </span>
+       <a class="" content="true" href="mailto:omarabozeid55@gmail.com">
+        omarabozeid55@gmail.com
+       </a>
+      </div>
+      <div class="contact-item">
+       <span>
+        📱
+       </span>
+       <span class="" content="true">
+        01015040483
+       </span>
+      </div>
+      <div class="contact-item">
+       <span>
+        🔗
+       </span>
+       <a class="" content="true" href="https://linkedin.com/in/johndoe">
+        https://linkedin.com/in/johndoe
+       </a>
+      </div>
+      <div class="contact-item">
+       <span>
+        💻
+       </span>
+       <a class="" content="true" href="https://github.com/johndoe">
+        https://github.com/johndoe
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="main-content">
+    <div class="section">
+     <h2 class="section-title">
+      Education
+     </h2>
+     <div class="education-item">
+      <div class="item-header">
+       <div>
+        <h3 class="item-title" content="true">
+         B.Sc. in Communication and Computer Engineering
+        </h3>
+        <p class="item-company" content="true">
+         Cairo University
+        </p>
+        <p class="item-location" content="true">
+         Cairo, Egypt
+        </p>
+       </div>
+       <div class="item-duration" content="true">
+        Expected Graduation: 2027
+       </div>
+      </div>
+      <p class="item-description" content="true">
+       Cumulative GPA: 3.40 | Last Semester GPA: 3.7
+      </p>
+     </div>
+    </div>
+    <div class="section">
+     <h2 class="section-title">
+      Experience
+     </h2>
+     <div class="experience-item">
+      <div class="item-header">
+       <div>
+        <h3 class="item-title" content="true">
+         Senior Software Engineer
+        </h3>
+        <p class="item-company" content="true">
+         Tech Corp
+        </p>
+        <p class="item-location" content="true">
+         San Francisco, CA
+        </p>
+       </div>
+       <div class="item-duration" content="true">
+        Jan 2023 - Present
+       </div>
+      </div>
+      <p class="item-description" content="true">
+       Led development of microservices architecture...
+      </p>
+     </div>
+    </div>
+    <div class="section">
+     <h2 class="section-title">
+      Skills
+     </h2>
+     <div class="skills-grid">
+      <div class="skill-category">
+       <h4>
+        Programming Languages
+       </h4>
+       <div class="skill-tags">
+        <span class="skill-tag" content="true">
+         C++
+        </span>
+        <span class="skill-tag" content="true">
+         C
+        </span>
+       </div>
+      </div>
+      <div class="skill-category">
+       <h4>
+        Frameworks &amp; Technologies
+       </h4>
+       <div class="skill-tags">
+        <span class="skill-tag" content="true">
+         React
+        </span>
+        <span class="skill-tag" content="true">
+         Django
+        </span>
+        <span class="skill-tag" content="true">
+         Spring Boot
+        </span>
+       </div>
+      </div>
+      <div class="skill-category">
+       <h4>
+        Tools &amp; Platforms
+       </h4>
+       <div class="skill-tags">
+        <span class="skill-tag" content="true">
+         Digital Systems Design
+        </span>
+        <span class="skill-tag" content="true">
+         Hardware Design &amp; Simulation
+        </span>
+        <span class="skill-tag" content="true">
+         Data Structures &amp; Algorithms
+        </span>
+        <span class="skill-tag" content="true">
+         Problem-Solving
+        </span>
+        <span class="skill-tag" content="true">
+         Team Collaboration
+        </span>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="section">
+     <h2 class="section-title">
+      Featured Projects
+     </h2>
+     <div class="project-item">
+      <div class="item-header">
+       <div>
+        <h3 class="item-title" content="true">
+         Ambulance and Hospital Simulation
+        </h3>
+        <p class="item-company" content="true">
+         Data Structures Project
+        </p>
+       </div>
+       <div class="item-duration" content="true">
+       </div>
+      </div>
+      <p class="item-description" content="true">
+       Built a system simulating ambulance dispatch and hospital intake using advanced data structures. Applied concepts like queues, stacks, and linked lists for real-time decision handling.
+      </p>
+     </div>
+     <div class="project-item">
+      <div class="item-header">
+       <div>
+        <h3 class="item-title" content="true">
+         Paint for Kids
+        </h3>
+        <p class="item-company" content="true">
+         C++ Programming Project
+        </p>
+       </div>
+       <div class="item-duration" content="true">
+        C++
+       </div>
+      </div>
+      <p class="item-description" content="true">
+       Developed an interactive drawing program targeted for children using C++. Focused on user-friendly interface and basic graphics functionality.
+      </p>
+     </div>
+     <div class="project-item">
+      <div class="item-header">
+       <div>
+        <h3 class="item-title" content="true">
+         ALU System
+        </h3>
+        <p class="item-company" content="true">
+         Logic Design Project
+        </p>
+       </div>
+       <div class="item-duration" content="true">
+       </div>
+      </div>
+      <p class="item-description" content="true">
+       Designed and implemented an Arithmetic Logic Unit (ALU) in both hardware and software. Demonstrated understanding of logic gates, digital circuits, and microarchitecture.
+      </p>
+     </div>
+    </div>
+    <div class="section">
+     <h2 class="section-title">
+      Awards &amp; Achievements
+     </h2>
+     <div class="awards-item">
+      <h3 class="award-title" content="true">
+       Research Day at Cairo University
+      </h3>
+      <p class="award-description" content="true">
+       Participated and won 3rd place in the research competition; awarded a certificate of recognition.
+      </p>
+     </div>
+    </div>
+   </div>
+  </div>
+  <button class="print-btn" onclick="window.print()">
+   📄 Print CV
+  </button>
+  <script>
+   // Add smooth scrolling
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+
+        // Add section animations on scroll
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -50px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.animationDelay = '0.1s';
+                    entry.target.style.animationFillMode = 'both';
+                }
+            });
+        }, observerOptions);
+
+        document.querySelectorAll('.section').forEach(section => {
+            observer.observe(section);
+        });
+
+        document.addEventListener('DOMContentLoaded', function () {
+            // Create a more dynamic and cool fog effect
+            const vantaEffect = VANTA.FOG({
+                el: ".cv-body",
+                mouseControls: true,
+                touchControls: true,
+                gyroControls: true, // Enable gyro for mobile devices
+                minHeight: 200.00,
+                minWidth: 200.00,
+
+                // Enhanced color scheme with more vibrant colors
+                highlightColor: 0x00d4aa,
+                midtoneColor: 0x7b68ee,
+                baseColor: 0x2d1b69,
+
+                // Dynamic fog properties
+                blurFactor: 0.65,            // More blur for ethereal effect
+                speed: 3.50,                 // Slower, more mesmerizing movement
+                zoom: 1.80,                  // Better zoom level
+
+                // Additional cool properties
+                scale: 1.2,                  // Scale factor
+                scaleMobile: 0.8,            // Mobile optimization
+
+                // Performance optimizations
+                lowFrameRate: false,
+                showStats: false
+            });
+
+
+        });
+  </script>
+ </body>
+</html>

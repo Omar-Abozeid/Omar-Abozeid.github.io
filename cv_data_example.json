@@ -1,0 +1,70 @@
+{
+    "contact": {
+        "name": "Omar Mohamed Abozeid",
+        "title": "Student at Cairo University - Communication Engineering",
+        "address": "",
+        "email": "omarabozeid55@gmail.com",
+        "phone": "01015040483",
+        "linkedin": "",
+        "github": ""
+    },
+    "education": [
+        {
+            "degree": "B.Sc. in Communication and Computer Engineering",
+            "institution": "Cairo University",
+            "location": "Cairo, Egypt",
+            "duration": "Expected Graduation: 2027",
+            "description": "Cumulative GPA: 3.40 | Last Semester GPA: 3.7"
+        }
+    ],
+    "experience": [],
+    "skills": {
+        "programming_languages": [
+            "C++",
+            "C"
+        ],
+        "frameworks": [],
+        "tools": [
+            "Digital Systems Design",
+            "Hardware Design & Simulation",
+            "Data Structures & Algorithms",
+            "Problem-Solving",
+            "Team Collaboration"
+        ]
+    },
+    "projects": [
+        {
+            "title": "ALU System",
+            "subtitle": "Logic Design Project",
+            "technologies": "",
+            "description": "Designed and implemented an Arithmetic Logic Unit (ALU) in both hardware and software. Demonstrated understanding of logic gates, digital circuits, and microarchitecture.",
+            "links": []
+        },
+        {
+            "title": "Paint for Kids",
+            "subtitle": "C++ Programming Project",
+            "technologies": "C++",
+            "description": "Developed an interactive drawing program targeted for children using C++. Focused on user-friendly interface and basic graphics functionality.",
+            "links": []
+        },
+        {
+            "title": "Ambulance and Hospital Simulation",
+            "subtitle": "Data Structures Project",
+            "technologies": "",
+            "description": "Built a system simulating ambulance dispatch and hospital intake using advanced data structures. Applied concepts like queues, stacks, and linked lists for real-time decision handling.",
+            "links": []
+        }
+    ],
+    "awards": [
+        {
+            "title": "Research Day at Cairo University",
+            "description": "Participated and won 3rd place in the research competition; awarded a certificate of recognition."
+        }
+    ],
+    "workshops": [
+        {
+            "title": "IEEE Digital Design Workshop",
+            "description": "Participating in practical sessions focused on digital circuit design and simulation."
+        }
+    ]
+}
